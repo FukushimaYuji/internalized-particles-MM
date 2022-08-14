@@ -1,2 +1,2 @@
 # internalized-particles-MM
-Codes for the analysis of TCR internalization (Fukushima et al., Cell Reports, 2022)
+Fiji macros (1_CD153.ijm, 2_CD153.ijm and 3_CD153.ijm) and Matlab scripts (4_CD153_20220326.mlx) are written to count the number of particles in each cell.
