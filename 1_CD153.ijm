@@ -1,4 +1,4 @@
-// For TCR analysis; 20200326 M. Matsuda
+// Initial process. 20200326 M. Matsuda
 // with only maximum z 
 
 SliceNum = getNumber("Slice number of interest",58);
